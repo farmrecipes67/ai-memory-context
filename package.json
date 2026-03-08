@@ -1,0 +1,16 @@
+{
+  "name": "ai-memory-context",
+  "version": "1.0.0",
+  "description": "Sliding-window memory management with auto-summarization for long AI conversations",
+  "main": "src/index.js",
+  "keywords": [
+    "ai",
+    "memory",
+    "context",
+    "sliding-window",
+    "summarization",
+    "llm",
+    "conversation"
+  ],
+  "license": "MIT"
+}
